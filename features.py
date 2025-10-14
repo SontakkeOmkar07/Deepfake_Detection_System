@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import tensorflow as tf
+import tensorflow as tf # pyright: ignore[reportMissingImports]
 # from tensorflow.keras.preprocessing.image import img_to_array, load_img
 # from tensorflow.keras.utils import array_to_img
 
